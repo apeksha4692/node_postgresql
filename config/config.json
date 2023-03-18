@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "apkesha",
-    "password": "@ppu1234",
-    "database": "postgres",
-    "host": "localhost",
+    "username": "postgres",
+    "password": "Gv@0987@Np",
+    "database": "birth_certificate",
+    "host": "18.60.246.185",
     "dialect": "postgres"
   },
   "test": {
@@ -21,3 +21,4 @@
     "dialect": "mysql"
   }
 }
+
